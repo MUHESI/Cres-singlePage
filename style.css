@@ -1572,6 +1572,7 @@ select.mobile-device {
     padding: 90px 0 80px !important;
     color: #999;
     background-color: #1f1f1f;
+    background-color: #0a0a0a;
 }
 .footer .widget-title {
     position: relative;
